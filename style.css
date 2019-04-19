@@ -1,0 +1,24 @@
+body {
+	background-image: url("background.jpg");
+	background-size: 300px;
+	text-align: center;
+}
+
+h1{
+	font-family: 'Lobster', cursive;
+	font-size: 50px ; 
+	color: white;
+}
+
+div {
+	color: white;
+	text-align: center;
+    border: 2px solid blue;
+    background-color: black;
+     margin: 0px auto;
+    resize: horizontal;
+    overflow: auto;
+    width: 35%;
+    padding: 3%;
+}
+
