@@ -11,10 +11,10 @@ h1{
 }
 
 div {
-	color: white;
+	color: black;
 	text-align: center;
     border: 2px solid blue;
-    background-color: black;
+    background-color: white;
      margin: 0px auto;
     resize: horizontal;
     overflow: auto;
